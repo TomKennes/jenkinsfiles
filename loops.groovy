@@ -9,5 +9,5 @@ def repeat(val, x=10){
 } 
 
 //repeat(0)
-
+repeat("abc this is a string", 3)
 
